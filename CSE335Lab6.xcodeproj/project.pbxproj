@@ -16,6 +16,7 @@
 		8208CE6929D1500100F8D82A /* CSE335Lab6UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8208CE6829D1500100F8D82A /* CSE335Lab6UITests.swift */; };
 		8208CE6B29D1500100F8D82A /* CSE335Lab6UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8208CE6A29D1500100F8D82A /* CSE335Lab6UITestsLaunchTests.swift */; };
 		8208CE7829D2401D00F8D82A /* coreDataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8208CE7729D2401D00F8D82A /* coreDataController.swift */; };
+		8208CE7A29D2418100F8D82A /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8208CE7929D2418100F8D82A /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		8208CE6829D1500100F8D82A /* CSE335Lab6UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSE335Lab6UITests.swift; sourceTree = "<group>"; };
 		8208CE6A29D1500100F8D82A /* CSE335Lab6UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSE335Lab6UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		8208CE7729D2401D00F8D82A /* coreDataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coreDataController.swift; sourceTree = "<group>"; };
+		8208CE7929D2418100F8D82A /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				8208CE4829D1500000F8D82A /* CSE335Lab6App.swift */,
 				8208CE4A29D1500000F8D82A /* ContentView.swift */,
 				8208CE7729D2401D00F8D82A /* coreDataController.swift */,
+				8208CE7929D2418100F8D82A /* DetailView.swift */,
 				8208CE4C29D1500100F8D82A /* Assets.xcassets */,
 				8208CE5329D1500100F8D82A /* CSE335Lab6.xcdatamodeld */,
 				8208CE4E29D1500100F8D82A /* Preview Content */,
@@ -266,6 +269,7 @@
 				8208CE4B29D1500000F8D82A /* ContentView.swift in Sources */,
 				8208CE5529D1500100F8D82A /* CSE335Lab6.xcdatamodeld in Sources */,
 				8208CE7829D2401D00F8D82A /* coreDataController.swift in Sources */,
+				8208CE7A29D2418100F8D82A /* DetailView.swift in Sources */,
 				8208CE4929D1500000F8D82A /* CSE335Lab6App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
