@@ -12,7 +12,7 @@ struct CSE335Lab6App: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(dataController: coreDataController())
         }
     }
 }
